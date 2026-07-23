@@ -1,0 +1,5 @@
+Screen ID,Screen Name,Role,Module,Mobile,Web,Backoffice,Create,Edit,Delete,Approve,Reject,Verify,Export,OTP Required,Audit Trail,Notifications,API Required,Database Tables,Priority
+PRO-001,Splash,All,Auth,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Minimal,Users,Must Have
+CA-004,Auction Setup,Commission Agent,Trading,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,High,"Lots, Bids, Auctions",Must Have
+BUY-003,Bid Room,Buyer/Trader,Trading,Yes,Yes,Limited,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,High,"Bids, Lots",Must Have
+WH-002,Warehouse Receipt,Warehouse,Storage,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,High,"Warehouse, Lots, Finance",Must Have
